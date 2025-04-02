@@ -1,0 +1,12 @@
+[submodule "unibase"]
+	path = unibase
+	url = https://github.com/kkozikowski/unibase
+[submodule "robobase"]
+	path = robobase
+	url = https://github.com/kkozikowski/robobase
+[submodule "base-one"]
+	path = base-one
+	url = https://github.com/kkozikowski/base-one
+[submodule "base4race"]
+	path = base4race
+	url = https://github.com/kkozikowski/base4race
